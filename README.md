@@ -1,0 +1,1 @@
+# agato-email-template
